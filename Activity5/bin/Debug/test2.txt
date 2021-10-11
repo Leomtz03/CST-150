@@ -1,0 +1,19 @@
+Professor Smithers and class, test
+According to Gaddis (2019), a counter variable is one that maintains a count of how many iterations the loop performed. It can be used to declare an incremented or decremented loop iteration. For instance, a decremented loop iteration can be used for countdown to lift off or an incremented loop iteration for keeping track of fitness exercises. 
+With this in mind, the purpose of declaring a counter variable in a for-loop as the initialization expression is to set a starting point for the loop. To emphasize the importance of the initialization expression, one can us an analogy of a newly built boat. Boats are typically built from the bottom up on land. In order for the boat to float, the boat must be placed in the water. Otherwise, the boat will never serve its purpose.  
+Furthermore, because a for-loop is a pretest loop, it is crucial for a counter variable to be initialized as a true Boolean expression to start the iteration. For instance, a for-loop with a test expression of count <= 5 is expecting to count iteration 0, iteration 1, iteration 2, and so forth. These are true expressions of iterations. On the other hand, 6 would be false because 6 is not between 0 and 5, resulting in a false Boolean expression. 
+Respectfully,
+Leonides
+
+References:
+Gaddis, T. (2019). Starting out with Visual C# (5th ed.) [E-book]. Pearson.
+Professor Smithers and class, test
+According to Gaddis (2019), a counter variable is one that maintains a count of how many iterations the loop performed. It can be used to declare an incremented or decremented loop iteration. For instance, a decremented loop iteration can be used for countdown to lift off or an incremented loop iteration for keeping track of fitness exercises. 
+With this in mind, the purpose of declaring a counter variable in a for-loop as the initialization expression is to set a starting point for the loop. To emphasize the importance of the initialization expression, one can us an analogy of a newly built boat. Boats are typically built from the bottom up on land. In order for the boat to float, the boat must be placed in the water. Otherwise, the boat will never serve its purpose.  
+Furthermore, because a for-loop is a pretest loop, it is crucial for a counter variable to be initialized as a true Boolean expression to start the iteration. For instance, a for-loop with a test expression of count <= 5 is expecting to count iteration 0, iteration 1, iteration 2, and so forth. These are true expressions of iterations. On the other hand, 6 would be false because 6 is not between 0 and 5, resulting in a false Boolean expression. 
+Respectfully,
+Leonides
+
+References:
+Gaddis, T. (2019). Starting out with Visual C# (5th ed.) [E-book]. Pearson.
+
