@@ -1,0 +1,10 @@
+C:\Users\Spectre\source\repos\Activity11\Activity11\bin\Debug\Activity11.exe.config
+C:\Users\Spectre\source\repos\Activity11\Activity11\bin\Debug\Activity11.exe
+C:\Users\Spectre\source\repos\Activity11\Activity11\bin\Debug\Activity11.pdb
+C:\Users\Spectre\source\repos\Activity11\Activity11\obj\Debug\Activity11.csproj.AssemblyReference.cache
+C:\Users\Spectre\source\repos\Activity11\Activity11\obj\Debug\Activity11.Form1.resources
+C:\Users\Spectre\source\repos\Activity11\Activity11\obj\Debug\Activity11.Properties.Resources.resources
+C:\Users\Spectre\source\repos\Activity11\Activity11\obj\Debug\Activity11.csproj.GenerateResource.cache
+C:\Users\Spectre\source\repos\Activity11\Activity11\obj\Debug\Activity11.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\source\repos\Activity11\Activity11\obj\Debug\Activity11.exe
+C:\Users\Spectre\source\repos\Activity11\Activity11\obj\Debug\Activity11.pdb
